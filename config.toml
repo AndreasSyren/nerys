@@ -1,6 +1,6 @@
 baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "John Doe's blog"
+title = "My incredible blog"
 # Define how many pages appear per site
 paginate = 10
 # Enable comments powered by Disqus by entering your disqus shortname
@@ -10,13 +10,13 @@ googleAnalytics = ""
 theme = "hugo-minimalistic-theme"
 
 [params]
-    site_author = "John Doe"
-    site_description = "The awesome blog of John Doe."
+    site_author = "Andreas"
+    site_description = "My incredible blog"
     location = "Earth"
     # Link custom assets relative to /static
-    avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
-    header_title = "Customizable header title"
+    avatar = "img/icon.png"
+    header_background = "img/image_veri_ivanova.jpg"
+    header_title = "Welcome to my website"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
     custom_js  = []
